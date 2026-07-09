@@ -222,3 +222,9 @@ Masalah pada tata letak elemen navbar diselesaikan dengan kombinasi bootstrap fl
 3. Menambahkan pagination
 4. Belum ada opsi hapus untuk setoran
 5. Tambahkan filter untuk sub modul penarikan, tambah penarikan
+
+tgl/wak: 09/07/2026
+
+Project sibangsa telah diterima dosen.
+Project sibangsa untuk memenuhi proyek pemrograman pemweb II, semester 4, Sistem Informasi, UNIPDU Jombang - telah dinyatakan SELESAI.
+terima kasih untuk anggota kelompk yang telah berpartisipasi menyumbangkan waktu dan tenaganya demi merampungkan projetc ini.
